@@ -1,6 +1,6 @@
 # CUIT Validator
 
-## Validador de CUIT/CUIT de Argentina. 
+## Validador de CUIT/CUIL de Argentina. 
 
 Viene como plugin para CakePHP pero la clase se puede usar de manera suelta en cualquier aplicación
 
