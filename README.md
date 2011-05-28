@@ -1,4 +1,4 @@
-﻿# CUIT Validator
+# CUIT Validator
 
 ## Validador de CUIT/CUIL de Argentina. 
 
